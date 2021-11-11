@@ -169,8 +169,8 @@ int main() {
 	Environment* env = nullptr;
 	Connection* conn = nullptr;
 	string str;
-	string usr = "dbs211_203b02";
-	string pass = "57903788";
+	string usr = "******";
+	string pass = "******";
 	string srv = "myoracle12c.senecacollege.ca:1521/oracle12c";
 	
 	Employee* emp = nullptr;
